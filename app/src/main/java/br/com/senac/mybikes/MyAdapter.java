@@ -24,7 +24,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
         return 0;
     }
 
-    //Criando uma inner class
+    //Criando uma inner class - classe interna
     public class MyViewHolder extends RecyclerView.ViewHolder{
 
         public MyViewHolder(@NonNull View itemView) {
